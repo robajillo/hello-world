@@ -4,12 +4,12 @@ h1 {
 }
 h2 {
   color: green;
-  font-style: italic;
+  font-style: oblique;
   text-align: center;
 }
 p {
   font-family: sans-serif;
 }
 ul {
-  line-height: 40px;
+  line-height: 20px;
 }
